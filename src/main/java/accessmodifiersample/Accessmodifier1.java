@@ -30,6 +30,7 @@ public class Accessmodifier1 {
 	 static void studentmark() {
 		
 		 System.out.println("default");
+		 System.out.println("test");
 	}
 	
 
