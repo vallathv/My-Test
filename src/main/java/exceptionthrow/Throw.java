@@ -12,7 +12,8 @@ public class Throw {
 	}
 
 	public static void main(String[] args) {
-		Throw.test(16);
+		Throw.test(26);
+		System.out.println("test");
 	}
 
 }
